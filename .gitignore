@@ -25,3 +25,7 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# file bantu lokal (bukan bagian project)
+/_backup-sebelum-perbaikan/
+/_modul/
